@@ -1,4 +1,21 @@
-src/__pycache__/__init__.cpython-312.pyc
-src/__pycache__/model.cpython-312.pyc
-src/__pycache__/utils.cpython-312.pyc
-src/__pycache__/optimization.cpython-312.pyc
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
